@@ -14,6 +14,7 @@ I´m Eric Martinez, Im from Uruguay and own proyects like SeaPvP Network, Rymbo 
 
 ## Contact
 You can contact me using:
+
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/diamondclass)
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/a7FqNnHk2m)
