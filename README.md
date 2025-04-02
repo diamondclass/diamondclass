@@ -5,4 +5,4 @@
 
 <p align="center">Hello everyone, here diamondclass reporting.<p>
 
-[![Skills](https://skillicons.dev/icons?i=idea,js,,linux,maven,mongodb,redis,vscode&theme=dark)](https://github.com/diamondclass)
+https://skillicons.dev/icons?i=idea,js,,linux,maven,mongodb,redis,vscode&theme=dark
