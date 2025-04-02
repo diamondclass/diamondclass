@@ -23,6 +23,13 @@ You can contact me using:
 
 ✉️ [contact@diamondclass.es](contact@diamondclass.es) 
 
+## Stats
+<div align="center">
+
+  <img height="300em" src="https://github-readme-stats.vercel.app/api?username=saiteja-madha&theme=dark&show_icons=true" />
+
+</div>
+
 ## My skills
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
