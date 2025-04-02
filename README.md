@@ -15,13 +15,13 @@ I´m Eric Martinez, Im from Uruguay and own proyects like SeaPvP Network, Rymbo 
 ## Contact
 You can contact me using:
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/diamondclass)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/diamondclass) @diamondclass
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/a7FqNnHk2m)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/a7FqNnHk2m) NearDevs
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/diamondclass.dev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/diamondclass.dev) @diamondclass.dev
 
-✉️ [contact@diamondclass.es](contact@diamondclass.es)
+✉️ [contact@diamondclass.es](contact@diamondclass.es) 
 
 ## My skills
 [![My Skills](https://skillicons.dev/icons?i=idea,js,linux,maven,mongodb,redis,vscode&theme=dark)](https://github.com/diamondclass)
