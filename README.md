@@ -1,1 +1,1 @@
-<!WARNING> This is a test
+> WARNING This is a test
