@@ -26,7 +26,7 @@ You can contact me using:
 ## Stats
 <div align="center">
 
-  <img height="300em" src="https://github-readme-stats.vercel.app/api?username=saiteja-madha&theme=dark&show_icons=true" />
+  <img height="300em" src="https://github-readme-stats.vercel.app/api?username=diamondclass&theme=dark&show_icons=true" />
 
 </div>
 
