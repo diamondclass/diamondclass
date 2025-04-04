@@ -9,7 +9,7 @@
 I´m Eric Martinez, Im from Uruguay and own proyects like SeaPvP Network, Rymbo or just myself.
 
 
-## Portafolio
+## Portfolio
 [Access clicking here](https://diamondclass.github.io)
 
 ## Contact
