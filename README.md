@@ -10,7 +10,7 @@ I´m Eric Martinez, Im from Uruguay and own proyects like SeaPvP Network, Rymbo 
 
 
 ## Portafolio
-[Access clicking here](https://diamondclass.github.pages)
+[Access clicking here](https://diamondclass.github.io)
 
 ## Contact
 You can contact me using:
@@ -33,7 +33,6 @@ You can contact me using:
 ## My skills
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![JSON](https://img.shields.io/badge/JSON-323330?style=for-the-badge&logo=json&logoColor=B1B1B1)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
