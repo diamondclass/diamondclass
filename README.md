@@ -24,7 +24,7 @@ You can contact me using:
 ✉️ [contact@diamondclass.es](contact@diamondclass.es) 
 
 ## Leader
-<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=CitymoonDynamics&data=followers,repositories,stars,commits"></p>
+<b>Citymoon Dynamics</b>
 
 ## Stats
 <div align="center">
