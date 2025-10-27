@@ -10,11 +10,11 @@
 I published some Anticheat configurations in BuiltByBit, maybe you can visit them 👀</p>
 
 ## Portfolio
-<p align="center"> [Access clicking here](https://docs.google.com/document/d/1ILzudij80kbIaLqabxQuPNVLXTAD-QB3LEoCPHfQBwY)</p>
+[Access by clicking here](https://docs.google.com/document/d/1ILzudij80kbIaLqabxQuPNVLXTAD-QB3LEoCPHfQBwY)
 
 ## Contact
 You can contact me using:
-
+<div align="center">
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/diamondclass) @diamondclass
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tCSuxVswUA) Citymoon Dynamics
@@ -22,6 +22,8 @@ You can contact me using:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/diamondclass.dev) @diamondclass.dev
 
 ✉️ [contact@diamondclass.es](contact@diamondclass.es) 
+
+</div>
 
 ## Leader, CEO & Developer
 <b align="center">Citymoon Dynamics</b>
