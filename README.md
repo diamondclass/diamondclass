@@ -3,14 +3,13 @@
     <img src="https://komarev.com/ghpvc/?username=diamondclass&color=00bfff">
 </p>
 
-<p align="center">Hello everyone, here diamondclass reporting.<p>
+<p align="center">Hello everyone, here diamondclass reporting!<p>
 
 ## Description
-I´m diamondclass, Im from Uruguay and own proyects like SeaPvP Network, Rymbo or just myself.
-
+I´m diamondclass, I live in Uruguay and own proyects like SeaPvP Network, Kraken Anticheat, Ulises Licenses or just myself.
 
 ## Portfolio
-[Access clicking here](https://diamondclass.github.io)
+[Access clicking here](https://docs.google.com/document/d/1ILzudij80kbIaLqabxQuPNVLXTAD-QB3LEoCPHfQBwY)
 
 ## Contact
 You can contact me using:
@@ -32,12 +31,3 @@ You can contact me using:
   <img height="300em" src="https://github-readme-stats.vercel.app/api?username=diamondclass&theme=dark&show_icons=true" />
 
 </div>
-
-## My skills
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![JSON](https://img.shields.io/badge/JSON-323330?style=for-the-badge&logo=json&logoColor=B1B1B1)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
