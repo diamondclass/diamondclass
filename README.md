@@ -6,27 +6,27 @@
 <p align="center">Hello everyone, here diamondclass reporting!<p>
 
 ## Description
-I´m diamondclass, I live in Uruguay and own proyects like SeaPvP Network, Kraken Anticheat, Ulises Licenses or just myself.
-I published some Anticheat configurations in BuiltByBit, maybe you can visit them 👀
+<p align="center">I´m diamondclass, I live in Uruguay and own proyects like SeaPvP Network, Kraken Anticheat, Ulises Licenses or just myself.
+I published some Anticheat configurations in BuiltByBit, maybe you can visit them 👀</p>
 
 ## Portfolio
-[Access clicking here](https://docs.google.com/document/d/1ILzudij80kbIaLqabxQuPNVLXTAD-QB3LEoCPHfQBwY)
+<p align="center"> [Access clicking here](https://docs.google.com/document/d/1ILzudij80kbIaLqabxQuPNVLXTAD-QB3LEoCPHfQBwY)</p>
 
 ## Contact
 You can contact me using:
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/diamondclass) @diamondclass
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tCSuxVswUA) NearDevs
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tCSuxVswUA) Citymoon Dynamics
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/diamondclass.dev) @diamondclass.dev
 
 ✉️ [contact@diamondclass.es](contact@diamondclass.es) 
 
 ## Leader, CEO & Developer
-<b>Citymoon Dynamics</b>
-<b>Ulises Licenses</b>
-<b>Kraken Anticheat</b>
+<b align="center">Citymoon Dynamics</b>
+<b align="center">Ulises Licenses</b>
+<b align="center">Kraken Anticheat</b>
 
 ## Stats
 <div align="center">
