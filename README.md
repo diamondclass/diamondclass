@@ -34,6 +34,8 @@ You can contact me using:
 ## Stats
 <div align="center">
 
-  <img height="300em" src="https://github-readme-stats.vercel.app/api?username=diamondclass&theme=dark&show_icons=true" />
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=diamondclass&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=diamondclass&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=diamondclass&layout=compact&theme=radical)
 
 </div>
