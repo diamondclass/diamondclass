@@ -1,41 +1,58 @@
 <p align="center">
 <a href="https://github.com/diamondclass">
-    <img src="https://komarev.com/ghpvc/?username=diamondclass&color=00bfff">
+<img src="https://komarev.com/ghpvc/?username=diamondclass&color=00bfff" alt="Views" />
+</a>
 </p>
 
-<p align="center">Hello everyone, here diamondclass reporting!<p>
+<h1 align="center">Hello everyone, here diamondclass reporting!</h1>
+
+---
 
 ## Description
-<p align="center">I´m diamondclass, I live in Uruguay and own proyects like SeaPvP Network, Kraken Anticheat, Ulises Licenses or just myself.
-I published some Anticheat configurations in BuiltByBit, maybe you can visit them 👀</p>
+<p align="center">
+  I´m diamondclass, I live in Uruguay and own proyects like SeaPvP Network, Kraken Anticheat, Ulises Licenses or just myself. 
+  I published some Anticheat configurations in BuiltByBit, maybe you can visit them.
+</p>
+
+---
 
 ## Portfolio
-[Access by clicking here](https://docs.google.com/document/d/1ILzudij80kbIaLqabxQuPNVLXTAD-QB3LEoCPHfQBwY)
+<p align="center">
+  <a href="https://docs.google.com/document/d/1ILzudij80kbIaLqabxQuPNVLXTAD-QB3LEoCPHfQBwY">
+    <b>Access by clicking here</b>
+  </a>
+</p>
+
+---
 
 ## Contact
-You can contact me using:
 <div align="center">
-    
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/diamondclass) @diamondclass
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tCSuxVswUA) Citymoon Dynamics
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/diamondclass.dev) @diamondclass.dev
-
-✉️ [contact@diamondclass.es](contact@diamondclass.es) 
+| **X** | [@diamondclassdev](https://x.com/diamondclassdev) |
+| **Discord** | [Citymoon Dynamics](https://discord.gg/tCSuxVswUA) |
+| **Instagram** | [@diamondclass.dev](https://instagram.com/diamondclass.dev) |
+| **Email** | [contact@diamondclass.es](mailto:contact@diamondclass.es) |
 
 </div>
 
+---
+
 ## Leader, CEO & Developer
-<b align="center">Citymoon Dynamics</b>
-<b align="center">Ulises Licenses</b>
-<b align="center">Kraken Anticheat</b>
+<div align="center">
+  
+**Citymoon Dynamics** | **Ulises Licenses** | **Kraken Anticheat**
+
+</div>
+
+---
 
 ## Stats
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=diamondclass&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=diamondclass&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=diamondclass&layout=compact&theme=radical)
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=diamondclass&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=diamondclass&theme=radical" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=diamondclass&layout=compact&theme=radical" alt="Top Langs" />
 
 </div>
