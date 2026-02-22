@@ -4,13 +4,13 @@
 </a>
 </p>
 
-<h1 align="center">Hello everyone, here diamondclass reporting!</h1>
+<h1 align="center">Sup everybody! Here diamondclass reporting!</h1>
 
 ---
 
 ## Description
 <p align="center">
-  I´m diamondclass, I live in Uruguay and own proyects like SeaPvP Network, Kraken Anticheat, Ulises Licenses or just myself. 
+  I´m diamondclass, I live in Uruguay and own proyects like my bots, Kraken Anticheat, Ulises Licenses or just myself. 
   I published some Anticheat configurations in BuiltByBit, maybe you can visit them.
 </p>
 
@@ -31,7 +31,7 @@
 | **X** | [@diamondclassdev](https://x.com/diamondclassdev) |
 | **Discord** | [Citymoon Dynamics](https://discord.gg/tCSuxVswUA) |
 | **Instagram** | [@diamondclass.dev](https://instagram.com/diamondclass.dev) |
-| **Email** | [contact@diamondclass.es](mailto:contact@diamondclass.es) |
+| **Web** | [citymoon.es](https://citymoon.es) |
 
 </div>
 
