@@ -47,7 +47,6 @@
 ---
 
 ## Powershell Mini SS Tool
-<div align="center">
 Run on Powershell:
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass && powershell Invoke-Expression (Invoke-RestMethod https://raw.githubusercontent.com/diamondclass/Near-SS/main/miniss.ps1)
 Run on CMD:
