@@ -10,8 +10,10 @@
 
 ## Description
 <p align="center">
-  I´m diamondclass, I live in Uruguay and own proyects like my bots, Kraken Anticheat, Ulises Licenses or just myself. 
+  I´m diamondclass, I live in Uruguay and own proyects like my bots, Ulises Licenses, some months ago Kraken Anticheat, or just myself. 
   I published some Anticheat configurations in BuiltByBit, maybe you can visit them.
+
+  Citymoon Dynamics (citymoon.org) Leader.
 </p>
 
 ---
@@ -31,7 +33,7 @@
 | **X** | [@diamondclassdev](https://x.com/diamondclassdev) |
 | **Discord** | [Citymoon Dynamics](https://discord.gg/tCSuxVswUA) |
 | **Instagram** | [@diamondclass.dev](https://instagram.com/diamondclass.dev) |
-| **Web** | [citymoon.es](https://citymoon.es) |
+| **Web** | [citymoon.org](https://citymoon.org) |
 
 </div>
 
