@@ -64,8 +64,6 @@ powershell Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass && powersh
 
   <img src="https://github-readme-stats-fast.vercel.app/api?username=diamondclass&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=diamondclass&theme=radical" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=diamondclass&layout=compact&theme=radical" alt="Top Langs" />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=diamondclass&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 </div>
