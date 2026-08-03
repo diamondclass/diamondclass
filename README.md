@@ -16,16 +16,16 @@
   Citymoon Dynamics (citymoon.org) Leader.
 </p>
 
----
+## Tools
 
-## Portfolio
-<p align="center">
-  <a href="https://docs.google.com/document/d/1ILzudij80kbIaLqabxQuPNVLXTAD-QB3LEoCPHfQBwY">
-    <b>Access by clicking here</b>
-  </a>
-</p>
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
 ## Contact
 <div align="center">
@@ -36,8 +36,6 @@
 | **Web** | [citymoon.org](https://citymoon.org) |
 
 </div>
-
----
 
 ## Leader, CEO & Developer
 <div align="center">
@@ -56,8 +54,6 @@ powershell Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass && powersh
 </p>
 
 </div>
-
----
 
 ## Stats
 <div align="center">
