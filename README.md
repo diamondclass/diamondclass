@@ -53,7 +53,7 @@
 ## Leader, CEO & Developer
 <div align="center">
   
-**Citymoon Dynamics** | **Ulises Licenses** | **Kraken Anticheat**
+**Citymoon Dynamics** | **Ulises Licenses** | **Freewings Discord Bot** | **Synth Anticheat**
 
 </div>
 
